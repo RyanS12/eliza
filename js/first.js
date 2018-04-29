@@ -27,14 +27,14 @@ function doMadLib() {
 
 	alert("madlib starting!");
 
-	var story = "Once upon ago, there was a <span class='c'>"+character+"</span>. He was a special <span class='c'>"+character+"</span>, <br><br> because he could <span class='c'>"
-	 + verb1 + "</span>. He was also very proud of <br><br>the fact that he could <span class='c'>" + verb2 + 
-	 "</span>. One day, he woke <br><br> up and said <span class='c'>" + say1 + "</span>. He then felt the need to <span class='c'>" + do1 + 
-	 "</span>. <br><br>Then, he <span class='c'>" + verb4 + "</span> and went out of his house into <span class='c'>" + weather + "</span>. He then <br><br> decided to <span class='c'>"
-	 +verb1+"</span>. Feeling good about himself, he went back inside to <span class='c'>"+verb3+"</span>. <br><br> But then he saw a "
-	 +noun1+"</span> standing on the dining table. Surprised, <br><br> he ran out <span class='c'>"+adv1+"</span>. "+
-	 "However, even when he went out, the <span class='c'>" +weather2+ "</span>surprised <br><br> him. " 
-	 +"It was then that he realized that <br><br> he was in <span class='c'>"+place+"</span>. ";
+	var story = "Once upon ago, there was a <span class='c'>"+character+"</span>. He was a special <span class='c'>"+character+"</span>, because he could <span class='c'>"
+	 + verb1 + "</span>. He was also very proud of the fact that he could <span class='c'>" + verb2 + 
+	 "</span>. One day, he woke up and said <span class='c'>" + say1 + "</span>. He then felt the need to <span class='c'>" + do1 + 
+	 "</span>. Then, he <span class='c'>" + verb4 + "</span> and went out of his house into <span class='c'>" + weather + "</span>. He then decided to <span class='c'>"
+	 +verb1+"</span>. Feeling good about himself, he went back inside to <span class='c'>"+verb3+"</span>. But then he saw a "
+	 +noun1+"</span> standing on the dining table. Surprised, he ran out <span class='c'>"+adv1+"</span>. "+
+	 "However, even when he went out, the <span class='c'>" +weather2+ "</span>surprised him. " 
+	 +"It was then that he realized that he was in <span class='c'>"+place+"</span>. ";
 
 
 
